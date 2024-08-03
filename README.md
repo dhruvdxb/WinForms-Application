@@ -11,7 +11,7 @@ The application also provides functionality to lock the color selection and copy
 
 1. **Clone the Repository**
    ```bash
-   open https://github.com/dhruvdxb/WinForms-Application
+   git clone https://github.com/dhruvdxb/WinForms-Application
    cd screencolor
 - Open the Solution
 - Open the ScreenColor.sln file in Visual Studio.
